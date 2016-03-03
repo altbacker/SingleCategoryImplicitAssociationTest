@@ -1,0 +1,346 @@
+colourB,colourA,instruction,orStimulusLeft,orStimulusRight,block,nBlockRepeats,attribute2,attribute1,target2,condition,target1,stimulusColour,stimulus,feedbackKey,feedbackAllowed,trialtype,requiredAllowed,requiredKey,imageStimulus,blocks.thisRepN,blocks.thisTrialN,blocks.thisN,blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,requiredResponse.keys,requiredResponse.corr,requiredResponse.rt,feedbackResponse.keys,feedbackResponse.corr,feedbackResponse.rt,participant,gender,age,frameRate,expName,date,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Lovely,e,e,3,i,i,blank.png,0,0,0,0,0,0,0,4,i,1,0.818259954453,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Dirty,i,i,4,e,e,blank.png,0,0,0,0,0,1,1,7,e,1,1.33367013931,i,1,0.317067861557,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Likeable,e,e,3,i,i,blank.png,0,0,0,0,0,2,2,3,i,1,0.0686399936676,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Despise,i,i,4,e,e,blank.png,0,0,0,0,0,3,3,6,e,1,0.167719125748,i,1,0.0507111549377,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Favorable,e,e,3,i,i,blank.png,0,0,0,0,0,4,4,2,i,1,2.31917500496,e,1,0.434810161591,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Enjoy,e,e,3,i,i,blank.png,0,0,0,0,0,5,5,1,i,1,0.0351309776306,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Attractive,e,e,3,i,i,blank.png,0,0,0,0,0,6,6,0,i,1,0.183022022247,e,1,0.115592002869,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Awful,i,i,4,e,e,blank.png,0,0,0,0,0,7,7,5,e,1,0.117769002914,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Disgust,i,i,4,e,e,blank.png,0,0,0,0,0,8,8,8,e,1,0.018627166748,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Nasty,i,i,4,e,e,blank.png,0,0,0,0,0,9,9,9,e,1,0.0335071086884,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Likeable,e,e,3,i,i,blank.png,0,0,0,0,1,0,10,3,i,1,0.0995349884033,e,1,0.0342419147491,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Despise,i,i,4,e,e,blank.png,0,0,0,0,1,1,11,6,e,1,0.116551876068,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Awful,i,i,4,e,e,blank.png,0,0,0,0,1,2,12,5,e,1,0.0334799289703,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Disgust,i,i,4,e,e,blank.png,0,0,0,0,1,3,13,8,e,1,0.0177249908447,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Lovely,e,e,3,i,i,blank.png,0,0,0,0,1,4,14,4,i,1,0.0830798149109,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Attractive,e,e,3,i,i,blank.png,0,0,0,0,1,5,15,0,i,1,0.151591062546,e,1,0.0838921070099,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Favorable,e,e,3,i,i,blank.png,0,0,0,0,1,6,16,2,i,1,0.152944087982,e,1,0.118672847748,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Dirty,i,i,4,e,e,blank.png,0,0,0,0,1,7,17,7,e,1,0.117151021957,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Nasty,i,i,4,e,e,blank.png,0,0,0,0,1,8,18,9,e,1,0.167845010757,i,1,0.0334331989288,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"In this task stimuli will appear one by one on the screen. Your job is to categorize them using the left (E) or right (I) key. There are three possible categories:
+
+(1) POSITIVE
+(2) NEGATIVE
+(3) FLOWERS
+
+Which categories are assigned to which button will differ from phase to phase. The categories assigned to the left button will appear in the upper left-hand corner of the screen. The categories assigned to the right button will appear in the upper right corner of the screen.
+
+Try to respond as quickly as possible, without making too many mistakes. When you make a mistake a red cross will appear. This cross will remain until you press the correct key.
+
+Press E or I to continue. ", , ,trials_attributes.xlsx,2,Positive,Negative, ,1, ,magenta,Enjoy,e,e,3,i,i,blank.png,0,0,0,0,1,9,19,1,i,1,0.0168068408966,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,white, ,e,e,1,i,i,flower1.jpg,0,1,1,1,0,0,0,5,i,1,0.083927154541,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Awful,i,i,3,e,e,blank.png,0,1,1,1,0,1,1,20,e,1,0.500376939774,i,1,0.482985019684,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,white, ,e,e,1,i,i,flower2.jpg,0,1,1,1,0,2,2,1,i,1,0.0169188976288,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Attractive,e,e,2,i,i,blank.png,0,1,1,1,0,3,3,15,i,1,0.518207073212,e,1,0.486972093582,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Awful,i,i,3,e,e,blank.png,0,1,1,1,0,4,4,25,e,1,0.449042081833,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Despise,i,i,3,e,e,blank.png,0,1,1,1,0,5,5,31,e,1,0.883418798447,i,1,0.450669050217,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Nasty,i,i,3,e,e,blank.png,0,1,1,1,0,6,6,29,e,1,0.7989590168,i,1,0.383286952972,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Despise,i,i,3,e,e,blank.png,0,1,1,1,0,7,7,21,e,1,0.355092048645,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,white, ,e,e,1,i,i,flower1.jpg,0,1,1,1,0,8,8,0,i,1,2.26562094688,e,1,1.83131408691,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Dirty,i,i,3,e,e,blank.png,0,1,1,1,0,9,9,22,e,1,1.28332996368,i,1,1.01748895645,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Enjoy,e,e,2,i,i,blank.png,0,1,1,1,0,10,10,16,i,1,0.0667638778687,e,1,0.0162541866302,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Nasty,i,i,3,e,e,blank.png,0,1,1,1,0,11,11,34,e,1,0.115579843521,i,1,0.0165469646454,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Lovely,e,e,2,i,i,blank.png,0,1,1,1,0,12,12,19,i,1,0.0506601333618,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,white, ,e,e,1,i,i,flower5.jpg,0,1,1,1,0,13,13,4,i,1,0.151261091232,e,1,0.150596857071,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Disgust,i,i,3,e,e,blank.png,0,1,1,1,0,14,14,28,e,1,0.0152900218964,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Favorable,e,e,2,i,i,blank.png,0,1,1,1,0,15,15,17,i,1,0.133955001831,e,1,0.0183570384979,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Favorable,e,e,2,i,i,blank.png,0,1,1,1,0,16,16,12,i,1,0.0997989177704,e,1,0.049458026886,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Disgust,i,i,3,e,e,blank.png,0,1,1,1,0,17,17,33,e,1,0.10094499588,None,0,,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,white, ,e,e,1,i,i,flower2.jpg,0,1,1,1,0,18,18,6,i,1,0.0170991420746,e,1,0.0167779922485,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Nasty,i,i,3,e,e,blank.png,0,1,1,1,0,19,19,24,e,1,0.166811943054,i,1,0.0338621139526,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,white, ,e,e,1,i,i,flower3.jpg,0,1,1,1,0,20,20,2,i,1,0.185599088669,e,1,0.0181000232697,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Likeable,e,e,2,i,i,blank.png,0,1,1,1,0,21,21,13,i,1,0.117655038834,e,1,0.0508918762207,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Awful,i,i,3,e,e,blank.png,0,1,1,1,0,22,22,30,e,1,0.0839939117432,i,1,0.0169589519501,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,white, ,e,e,1,i,i,flower5.jpg,0,1,1,1,0,23,23,9,i,1,0.0506930351257,e,1,0.0163559913635,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
+magenta,white,"This is a phase FLOWERS, POSITIVE and NEGATIVE.
+
+Try to respond as quickly as possible without making too many mistakes.
+
+Press E or I to continue. ", ,or,trials_A.xlsx,2,Positive,Negative,Flowers,1, ,magenta,Despise,i,i,3,e,e,blank.png,0,1,1,1,0,24,24,26,e,1,0.151371002197,i,1,0.13449883461,1,,,60.2145400253,SCIAT IAT and likerts,2016_Mar_03_1652,
